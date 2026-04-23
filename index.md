@@ -2,7 +2,7 @@
 
 Daily rare disease intelligence archive.
 
-- [Daily index 2026-04-23](./2026-04-23/)
-- [Japanese reports](./ja/)
-- [English reports](./en/)
+- [Daily index 2026-04-23](/red-public/2026-04-23/)
+- [Japanese reports](/red-public/ja/)
+- [English reports](/red-public/en/)
 
