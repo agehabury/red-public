@@ -5,7 +5,7 @@ disease: "von_willebrand_disease"
 language: "ja"
 status: "published"
 publication_status: "published"
-run_id: "2026-04-23-223647531711"
+run_id: "2026-04-23-234042291695"
 red_generated_by: "rare-disease-intelligence"
 ---
 
