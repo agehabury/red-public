@@ -3,7 +3,7 @@
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
 Latest publication date: 2026-04-24
-Published report count on latest date: 10
+Published report count on latest date: 1
 
 ## Latest Navigation
 
