@@ -5,7 +5,7 @@ disease: "amyotrophic_lateral_sclerosis"
 language: "en"
 status: "published"
 publication_status: "published"
-run_id: "2026-04-24-102509511721"
+run_id: "2026-04-24-114704564376"
 red_generated_by: "rare-disease-intelligence"
 ---
 
@@ -17,12 +17,6 @@ Data current as of 2026-04-24
 This is a free-MVP pipeline validation report. Do not use it for publication decisions until live search, evidence extraction, and LLM analysis are enabled.
 
 ## [Evidence Ledger]
-- Source: Amneal Pharmaceuticals LLC Issues Voluntary Nationwide Recall of Magnesium Sulfate in Water for Injection, USP 4 g/100mL (NDC 70121-1720-3) Due to a Product Mix-up with Tranexamic Acid in 0.7% Sodium Chloride Injection, 10 mg/mL
-  - URL: http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/amneal-pharmaceuticals-llc-issues-voluntary-nationwide-recall-magnesium-sulfate-water-injection-usp
-  - Evidence type: regulatory-safety
-  - Confidence: High
-  - Key facts: Bridgewater, New Jersey, Amneal Pharmaceuticals LLC is voluntarily recalling one lot of Magnesium Sulfate in Water for Injection, USP, 4g/100mL, IV bag, to the hospital level. A Magnesium Sulfate in Water for Injection pouch was found to contain an IV bag of Tranexamic Acid in 0.7% Sodium Chloride I / Published: Tue, 24 Mar 2026 00:00:00 EDT
-  - Limitations: RSS-level match only; full FDA safety communication requires review.
 - Source: FDA label: FDA drug label
   - URL: https://api.fda.gov/drug/label.json?search=set_id:0a4ad0db-ce67-4724-91d2-88258c2cc9f8
   - Evidence type: regulatory-label
@@ -47,6 +41,12 @@ This is a free-MVP pipeline validation report. Do not use it for publication dec
   - Confidence: High
   - Key facts: PMID: 42023099 / Publication date: 2026 / Journal/source: Front Med (Lausanne)
   - Limitations: PubMed metadata collected; abstract/full text not yet analyzed.
+- Source: Ultrasonography of the Neuromuscular Degeneration Behavior in Amyotrophic Lateral Sclerosis
+  - URL: https://clinicaltrials.gov/study/NCT03683875
+  - Evidence type: registry
+  - Confidence: High
+  - Key facts: NCT ID: NCT03683875 / Overall status: COMPLETED / Last update submitted: 2021-10-28 / Conditions: Amyotrophic Lateral Sclerosis
+  - Limitations: Registry metadata collected; posted results and endpoints require deeper parsing.
 
 ## [Clinical Impact]
 Not evaluated. In live runs, this section will assess implications for diagnosis, treatment selection, monitoring, guidelines, and patient journey.
@@ -64,9 +64,9 @@ This page validates daily automation output shape, bilingual generation, archive
 - Notion review and GitHub Pages approval flow
 
 ## [Sources]
-- Amneal Pharmaceuticals LLC Issues Voluntary Nationwide Recall of Magnesium Sulfate in Water for Injection, USP 4 g/100mL (NDC 70121-1720-3) Due to a Product Mix-up with Tranexamic Acid in 0.7% Sodium Chloride Injection, 10 mg/mL: http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/amneal-pharmaceuticals-llc-issues-voluntary-nationwide-recall-magnesium-sulfate-water-injection-usp
 - FDA label: FDA drug label: https://api.fda.gov/drug/label.json?search=set_id:0a4ad0db-ce67-4724-91d2-88258c2cc9f8
 - FDA label: RADICAVA: https://api.fda.gov/drug/label.json?search=set_id:0ce2c1c4-2a40-485c-b7cb-96a9b85d9d11
 - Alcohol and neurodegenerative diseases: a review of mechanistic insights and disease specific effects.: https://pubmed.ncbi.nlm.nih.gov/42024796/
 - Modeling ALS in a dish: how organoids are transforming research.: https://pubmed.ncbi.nlm.nih.gov/42023099/
+- Ultrasonography of the Neuromuscular Degeneration Behavior in Amyotrophic Lateral Sclerosis: https://clinicaltrials.gov/study/NCT03683875
 
