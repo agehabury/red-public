@@ -1,10 +1,11 @@
-# RED English Reports [2026-04-23]
+# RED English Reports [2026-04-24]
 
 English reports that passed the RED publication gate.
 
-- Latest date: 2026-04-23
-- Published report count: 1
+- Latest date: 2026-04-24
+- Published report count: 2
 
 ## Report List
 
-- [Von Willebrand Disease](/red-public/en/2026-04-23/von-willebrand-disease/)
+- [Systemic Sclerosis](/red-public/en/2026-04-24/systemic-sclerosis/)
+- [Multiple Sclerosis](/red-public/en/2026-04-24/multiple-sclerosis/)
