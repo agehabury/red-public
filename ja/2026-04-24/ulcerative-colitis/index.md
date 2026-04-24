@@ -5,7 +5,7 @@ disease: "ulcerative_colitis"
 language: "ja"
 status: "published"
 publication_status: "published"
-run_id: "2026-04-24-103427342340"
+run_id: "2026-04-24-114704564376"
 red_generated_by: "rare-disease-intelligence"
 ---
 
@@ -17,17 +17,17 @@ Data current as of 2026-04-24
 現時点では無料MVPパイプラインの検証用レポートです。ライブ検索、エビデンス抽出、LLM解析が有効化されるまでは、公開判断には使用しないでください。
 
 ■ [Evidence Ledger]
-- Source: Reconstruction Prosthesis Correction: Stryker Updates Use Instructions for Patient-Fitted TMJ Implants
-  - URL: http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/reconstruction-prosthesis-correction-stryker-updates-use-instructions-patient-fitted-tmj-implants
-  - Evidence type: regulatory-safety
-  - Confidence: High
-  - Key facts: Stryker is updating use instructions for TMJ Unilateral and Bilateral Implants due to a discrepancy in the positioning of the screw hole. / Published: Wed, 15 Apr 2026 00:00:00 EDT
-  - Limitations: RSS-level match only; full FDA safety communication requires review.
 - Source: Ventilator Tubing Correction: Percussionaire Corporation Updates Use Instructions for Phasitron In-Line Valve
   - URL: http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-tubing-correction-percussionaire-corporation-updates-use-instructions-phasitron-line
   - Evidence type: regulatory-safety
   - Confidence: High
   - Key facts: Percussionaire Corporation issues updated instructions for ventilator tubes due to design defect that could cause hypoventilation, respiratory failure / Published: Wed, 15 Apr 2026 00:00:00 EDT
+  - Limitations: RSS-level match only; full FDA safety communication requires review.
+- Source: Reconstruction Prosthesis Correction: Stryker Updates Use Instructions for Patient-Fitted TMJ Implants
+  - URL: http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/reconstruction-prosthesis-correction-stryker-updates-use-instructions-patient-fitted-tmj-implants
+  - Evidence type: regulatory-safety
+  - Confidence: High
+  - Key facts: Stryker is updating use instructions for TMJ Unilateral and Bilateral Implants due to a discrepancy in the positioning of the screw hole. / Published: Wed, 15 Apr 2026 00:00:00 EDT
   - Limitations: RSS-level match only; full FDA safety communication requires review.
 - Source: Prevalence, incidence and mortality of pediatric inflammatory bowel disease in Catalonia (EPIBDCat).
   - URL: https://pubmed.ncbi.nlm.nih.gov/42024136/
@@ -64,8 +64,8 @@ Data current as of 2026-04-24
 - NotionレビューとGitHub Pages公開の承認フロー
 
 ■ [Sources]
-- Reconstruction Prosthesis Correction: Stryker Updates Use Instructions for Patient-Fitted TMJ Implants: http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/reconstruction-prosthesis-correction-stryker-updates-use-instructions-patient-fitted-tmj-implants
 - Ventilator Tubing Correction: Percussionaire Corporation Updates Use Instructions for Phasitron In-Line Valve: http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-tubing-correction-percussionaire-corporation-updates-use-instructions-phasitron-line
+- Reconstruction Prosthesis Correction: Stryker Updates Use Instructions for Patient-Fitted TMJ Implants: http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/reconstruction-prosthesis-correction-stryker-updates-use-instructions-patient-fitted-tmj-implants
 - Prevalence, incidence and mortality of pediatric inflammatory bowel disease in Catalonia (EPIBDCat).: https://pubmed.ncbi.nlm.nih.gov/42024136/
 - Validity and Reliability of the Caregiver Contribution to Self-Care of Chronic Illness Inventory in Patients With Inflammatory Bowel Disease.: https://pubmed.ncbi.nlm.nih.gov/42022938/
 - Study for Safety and Tolerability of TOP1288 Administered Rectally in Healthy and Ulcerative Colitis Subjects: https://clinicaltrials.gov/study/NCT02463045
