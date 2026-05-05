@@ -2,6 +2,24 @@
 
 Published Japanese reports grouped by date.
 
+## 2026-05-06
+- [amyotrophic lateral sclerosis](/red-public/ja/2026-05-06/amyotrophic-lateral-sclerosis/)
+- [multiple sclerosis](/red-public/ja/2026-05-06/multiple-sclerosis/)
+- [myasthenia gravis](/red-public/ja/2026-05-06/myasthenia-gravis/)
+- [parkinsons disease](/red-public/ja/2026-05-06/parkinsons-disease/)
+- [systemic lupus erythematosus](/red-public/ja/2026-05-06/systemic-lupus-erythematosus/)
+- [systemic sclerosis](/red-public/ja/2026-05-06/systemic-sclerosis/)
+- [ulcerative colitis](/red-public/ja/2026-05-06/ulcerative-colitis/)
+
+## 2026-05-05
+- [amyotrophic lateral sclerosis](/red-public/ja/2026-05-05/amyotrophic-lateral-sclerosis/)
+- [crohns disease](/red-public/ja/2026-05-05/crohns-disease/)
+- [multiple sclerosis](/red-public/ja/2026-05-05/multiple-sclerosis/)
+- [myasthenia gravis](/red-public/ja/2026-05-05/myasthenia-gravis/)
+- [parkinsons disease](/red-public/ja/2026-05-05/parkinsons-disease/)
+- [systemic sclerosis](/red-public/ja/2026-05-05/systemic-sclerosis/)
+- [ulcerative colitis](/red-public/ja/2026-05-05/ulcerative-colitis/)
+
 ## 2026-05-04
 - [amyotrophic lateral sclerosis](/red-public/ja/2026-05-04/amyotrophic-lateral-sclerosis/)
 - [myasthenia gravis](/red-public/ja/2026-05-04/myasthenia-gravis/)
