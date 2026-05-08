@@ -2,14 +2,14 @@
 
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
-Latest publication date: 2026-05-07
-Published report count on latest date: 9
-Archive dates available: 16
-Total published report pages: 64
+Latest publication date: 2026-05-09
+Published report count on latest date: 4
+Archive dates available: 18
+Total published report pages: 68
 
 ## Latest Navigation
 
-- [Daily index 2026-05-07](/red-public/2026-05-07/)
+- [Daily index 2026-05-09](/red-public/2026-05-09/)
 - [Japanese reports](/red-public/ja/)
 - [English reports](/red-public/en/)
 - [Archive by date](/red-public/archive/)
@@ -22,18 +22,15 @@ Total published report pages: 64
 
 ## Latest Published Reports
 
-- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-07/ulcerative-colitis/)
-- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-07/parkinsons-disease/)
-- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-05-07/systemic-lupus-erythematosus/)
-- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-07/crohns-disease/)
-- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-07/myasthenia-gravis/)
-- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-07/systemic-sclerosis/)
-- [脊髄小脳変性症 (Spinocerebellar Degeneration)](/red-public/ja/2026-05-07/spinocerebellar-degeneration/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-07/multiple-sclerosis/)
-- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-05-07/amyotrophic-lateral-sclerosis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-09/parkinsons-disease/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-09/systemic-sclerosis/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-09/multiple-sclerosis/)
+- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-05-09/amyotrophic-lateral-sclerosis/)
 
 ## Archive by Date
 
+- [2026-05-09](/red-public/2026-05-09/) - 4 published report(s)
+- [2026-05-08](/red-public/2026-05-08/) - 0 published report(s)
 - [2026-05-07](/red-public/2026-05-07/) - 9 published report(s)
 - [2026-05-06](/red-public/2026-05-06/) - 7 published report(s)
 - [2026-05-05](/red-public/2026-05-05/) - 7 published report(s)
