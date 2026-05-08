@@ -2,6 +2,14 @@
 
 Published English reports grouped by date.
 
+## 2026-05-09
+- [amyotrophic lateral sclerosis](/red-public/en/2026-05-09/amyotrophic-lateral-sclerosis/)
+- [multiple sclerosis](/red-public/en/2026-05-09/multiple-sclerosis/)
+- [parkinsons disease](/red-public/en/2026-05-09/parkinsons-disease/)
+- [systemic sclerosis](/red-public/en/2026-05-09/systemic-sclerosis/)
+
+## 2026-05-08
+
 ## 2026-05-07
 - [amyotrophic lateral sclerosis](/red-public/en/2026-05-07/amyotrophic-lateral-sclerosis/)
 - [crohns disease](/red-public/en/2026-05-07/crohns-disease/)
