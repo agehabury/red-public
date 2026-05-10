@@ -1,19 +1,23 @@
-# RED Japanese Reports [2026-05-09]
+# RED Japanese Reports [2026-05-11]
 
 Japanese reports that passed the RED publication gate.
 
-- Latest date: 2026-05-09
-- Published report count: 4
+- Latest date: 2026-05-11
+- Published report count: 6
 
 ## Report List
 
-- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-09/parkinsons-disease/)
-- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-09/systemic-sclerosis/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-09/multiple-sclerosis/)
-- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-05-09/amyotrophic-lateral-sclerosis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-11/parkinsons-disease/)
+- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-11/crohns-disease/)
+- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-11/myasthenia-gravis/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-11/systemic-sclerosis/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-11/multiple-sclerosis/)
+- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-05-11/amyotrophic-lateral-sclerosis/)
 
 ## Archive by Date
 
+- [2026-05-11](/red-public/ja/archive/) - 6 published report(s)
+- [2026-05-10](/red-public/ja/archive/) - 0 published report(s)
 - [2026-05-09](/red-public/ja/archive/) - 4 published report(s)
 - [2026-05-08](/red-public/ja/archive/) - 0 published report(s)
 - [2026-05-07](/red-public/ja/archive/) - 9 published report(s)
