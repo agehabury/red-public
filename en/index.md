@@ -1,11 +1,24 @@
-# RED English Reports [2026-05-12]
+# RED English Reports [2026-05-13]
 
 English reports that passed the RED publication gate.
 
-No material English reports were generated for this date.
+- Latest date: 2026-05-13
+- Published report count: 8
+
+## Report List
+
+- [Parkinson's Disease](/red-public/en/2026-05-13/parkinsons-disease/)
+- [Systemic Lupus Erythematosus](/red-public/en/2026-05-13/systemic-lupus-erythematosus/)
+- [Crohn's Disease](/red-public/en/2026-05-13/crohns-disease/)
+- [Myasthenia Gravis](/red-public/en/2026-05-13/myasthenia-gravis/)
+- [Systemic Sclerosis](/red-public/en/2026-05-13/systemic-sclerosis/)
+- [Spinocerebellar Degeneration](/red-public/en/2026-05-13/spinocerebellar-degeneration/)
+- [Multiple Sclerosis](/red-public/en/2026-05-13/multiple-sclerosis/)
+- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-05-13/amyotrophic-lateral-sclerosis/)
 
 ## Archive by Date
 
+- [2026-05-13](/red-public/en/archive/) - 8 published report(s)
 - [2026-05-12](/red-public/en/archive/) - 6 published report(s)
 - [2026-05-11](/red-public/en/archive/) - 6 published report(s)
 - [2026-05-10](/red-public/en/archive/) - 0 published report(s)
