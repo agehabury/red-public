@@ -2,6 +2,11 @@
 
 Published Japanese reports grouped by date.
 
+## 2026-05-18
+- [multiple sclerosis](/red-public/ja/2026-05-18/multiple-sclerosis/)
+- [parkinsons disease](/red-public/ja/2026-05-18/parkinsons-disease/)
+- [ulcerative colitis](/red-public/ja/2026-05-18/ulcerative-colitis/)
+
 ## 2026-05-17
 - [amyotrophic lateral sclerosis](/red-public/ja/2026-05-17/amyotrophic-lateral-sclerosis/)
 - [crohns disease](/red-public/ja/2026-05-17/crohns-disease/)
