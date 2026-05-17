@@ -1,23 +1,26 @@
-# RED Japanese Reports [2026-05-13]
+# RED Japanese Reports [2026-05-17]
 
 Japanese reports that passed the RED publication gate.
 
-- Latest date: 2026-05-13
-- Published report count: 8
+- Latest date: 2026-05-17
+- Published report count: 7
 
 ## Report List
 
-- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-13/parkinsons-disease/)
-- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-05-13/systemic-lupus-erythematosus/)
-- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-13/crohns-disease/)
-- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-13/myasthenia-gravis/)
-- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-13/systemic-sclerosis/)
-- [脊髄小脳変性症 (Spinocerebellar Degeneration)](/red-public/ja/2026-05-13/spinocerebellar-degeneration/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-13/multiple-sclerosis/)
-- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-05-13/amyotrophic-lateral-sclerosis/)
+- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-17/ulcerative-colitis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-17/parkinsons-disease/)
+- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-05-17/systemic-lupus-erythematosus/)
+- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-17/crohns-disease/)
+- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-17/myasthenia-gravis/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-17/systemic-sclerosis/)
+- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-05-17/amyotrophic-lateral-sclerosis/)
 
 ## Archive by Date
 
+- [2026-05-17](/red-public/ja/archive/) - 7 published report(s)
+- [2026-05-16](/red-public/ja/archive/) - 0 published report(s)
+- [2026-05-15](/red-public/ja/archive/) - 9 published report(s)
+- [2026-05-14](/red-public/ja/archive/) - 4 published report(s)
 - [2026-05-13](/red-public/ja/archive/) - 8 published report(s)
 - [2026-05-12](/red-public/ja/archive/) - 6 published report(s)
 - [2026-05-11](/red-public/ja/archive/) - 6 published report(s)
