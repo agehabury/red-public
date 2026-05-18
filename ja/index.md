@@ -1,18 +1,23 @@
-# RED Japanese Reports [2026-05-18]
+# RED Japanese Reports [2026-05-19]
 
 Japanese reports that passed the RED publication gate.
 
-- Latest date: 2026-05-18
-- Published report count: 3
+- Latest date: 2026-05-19
+- Published report count: 7
 
 ## Report List
 
-- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-18/ulcerative-colitis/)
-- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-18/parkinsons-disease/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-18/multiple-sclerosis/)
+- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-19/ulcerative-colitis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-19/parkinsons-disease/)
+- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-05-19/systemic-lupus-erythematosus/)
+- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-19/crohns-disease/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-19/systemic-sclerosis/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-19/multiple-sclerosis/)
+- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-05-19/von-willebrand-disease/)
 
 ## Archive by Date
 
+- [2026-05-19](/red-public/ja/archive/) - 7 published report(s)
 - [2026-05-18](/red-public/ja/archive/) - 3 published report(s)
 - [2026-05-17](/red-public/ja/archive/) - 7 published report(s)
 - [2026-05-16](/red-public/ja/archive/) - 0 published report(s)
