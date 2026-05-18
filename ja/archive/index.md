@@ -2,6 +2,15 @@
 
 Published Japanese reports grouped by date.
 
+## 2026-05-19
+- [crohns disease](/red-public/ja/2026-05-19/crohns-disease/)
+- [multiple sclerosis](/red-public/ja/2026-05-19/multiple-sclerosis/)
+- [parkinsons disease](/red-public/ja/2026-05-19/parkinsons-disease/)
+- [systemic lupus erythematosus](/red-public/ja/2026-05-19/systemic-lupus-erythematosus/)
+- [systemic sclerosis](/red-public/ja/2026-05-19/systemic-sclerosis/)
+- [ulcerative colitis](/red-public/ja/2026-05-19/ulcerative-colitis/)
+- [von willebrand disease](/red-public/ja/2026-05-19/von-willebrand-disease/)
+
 ## 2026-05-18
 - [multiple sclerosis](/red-public/ja/2026-05-18/multiple-sclerosis/)
 - [parkinsons disease](/red-public/ja/2026-05-18/parkinsons-disease/)
