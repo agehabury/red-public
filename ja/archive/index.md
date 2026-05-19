@@ -2,6 +2,16 @@
 
 Published Japanese reports grouped by date.
 
+## 2026-05-20
+- [amyotrophic lateral sclerosis](/red-public/ja/2026-05-20/amyotrophic-lateral-sclerosis/)
+- [crohns disease](/red-public/ja/2026-05-20/crohns-disease/)
+- [multiple sclerosis](/red-public/ja/2026-05-20/multiple-sclerosis/)
+- [myasthenia gravis](/red-public/ja/2026-05-20/myasthenia-gravis/)
+- [parkinsons disease](/red-public/ja/2026-05-20/parkinsons-disease/)
+- [systemic lupus erythematosus](/red-public/ja/2026-05-20/systemic-lupus-erythematosus/)
+- [systemic sclerosis](/red-public/ja/2026-05-20/systemic-sclerosis/)
+- [ulcerative colitis](/red-public/ja/2026-05-20/ulcerative-colitis/)
+
 ## 2026-05-19
 - [crohns disease](/red-public/ja/2026-05-19/crohns-disease/)
 - [multiple sclerosis](/red-public/ja/2026-05-19/multiple-sclerosis/)
