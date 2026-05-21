@@ -2,6 +2,14 @@
 
 Published English reports grouped by date.
 
+## 2026-05-22
+- [crohns disease](/red-public/en/2026-05-22/crohns-disease/)
+- [multiple sclerosis](/red-public/en/2026-05-22/multiple-sclerosis/)
+- [myasthenia gravis](/red-public/en/2026-05-22/myasthenia-gravis/)
+- [parkinsons disease](/red-public/en/2026-05-22/parkinsons-disease/)
+- [systemic sclerosis](/red-public/en/2026-05-22/systemic-sclerosis/)
+- [ulcerative colitis](/red-public/en/2026-05-22/ulcerative-colitis/)
+
 ## 2026-05-21
 - [amyotrophic lateral sclerosis](/red-public/en/2026-05-21/amyotrophic-lateral-sclerosis/)
 - [crohns disease](/red-public/en/2026-05-21/crohns-disease/)
