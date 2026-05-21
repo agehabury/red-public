@@ -2,14 +2,14 @@
 
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
-Latest publication date: 2026-05-21
-Published report count on latest date: 10
-Archive dates available: 30
-Total published report pages: 136
+Latest publication date: 2026-05-22
+Published report count on latest date: 6
+Archive dates available: 31
+Total published report pages: 142
 
 ## Latest Navigation
 
-- [Daily index 2026-05-21](/red-public/2026-05-21/)
+- [Daily index 2026-05-22](/red-public/2026-05-22/)
 - [Japanese reports](/red-public/ja/)
 - [English reports](/red-public/en/)
 - [Archive by date](/red-public/archive/)
@@ -22,19 +22,16 @@ Total published report pages: 136
 
 ## Latest Published Reports
 
-- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-21/ulcerative-colitis/)
-- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-21/parkinsons-disease/)
-- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-05-21/systemic-lupus-erythematosus/)
-- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-21/crohns-disease/)
-- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-21/myasthenia-gravis/)
-- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-21/systemic-sclerosis/)
-- [脊髄小脳変性症 (Spinocerebellar Degeneration)](/red-public/ja/2026-05-21/spinocerebellar-degeneration/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-21/multiple-sclerosis/)
-- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-05-21/amyotrophic-lateral-sclerosis/)
-- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-05-21/von-willebrand-disease/)
+- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-22/ulcerative-colitis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-22/parkinsons-disease/)
+- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-22/crohns-disease/)
+- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-22/myasthenia-gravis/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-22/systemic-sclerosis/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-22/multiple-sclerosis/)
 
 ## Archive by Date
 
+- [2026-05-22](/red-public/2026-05-22/) - 6 published report(s)
 - [2026-05-21](/red-public/2026-05-21/) - 10 published report(s)
 - [2026-05-20](/red-public/2026-05-20/) - 8 published report(s)
 - [2026-05-19](/red-public/2026-05-19/) - 7 published report(s)
