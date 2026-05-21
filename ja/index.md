@@ -1,25 +1,22 @@
-# RED Japanese Reports [2026-05-21]
+# RED Japanese Reports [2026-05-22]
 
 Japanese reports that passed the RED publication gate.
 
-- Latest date: 2026-05-21
-- Published report count: 10
+- Latest date: 2026-05-22
+- Published report count: 6
 
 ## Report List
 
-- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-21/ulcerative-colitis/)
-- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-21/parkinsons-disease/)
-- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-05-21/systemic-lupus-erythematosus/)
-- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-21/crohns-disease/)
-- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-21/myasthenia-gravis/)
-- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-21/systemic-sclerosis/)
-- [脊髄小脳変性症 (Spinocerebellar Degeneration)](/red-public/ja/2026-05-21/spinocerebellar-degeneration/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-21/multiple-sclerosis/)
-- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-05-21/amyotrophic-lateral-sclerosis/)
-- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-05-21/von-willebrand-disease/)
+- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-22/ulcerative-colitis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-22/parkinsons-disease/)
+- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-22/crohns-disease/)
+- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-22/myasthenia-gravis/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-22/systemic-sclerosis/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-22/multiple-sclerosis/)
 
 ## Archive by Date
 
+- [2026-05-22](/red-public/ja/archive/) - 6 published report(s)
 - [2026-05-21](/red-public/ja/archive/) - 10 published report(s)
 - [2026-05-20](/red-public/ja/archive/) - 8 published report(s)
 - [2026-05-19](/red-public/ja/archive/) - 7 published report(s)
