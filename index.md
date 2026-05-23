@@ -2,14 +2,14 @@
 
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
-Latest publication date: 2026-05-22
-Published report count on latest date: 6
-Archive dates available: 31
-Total published report pages: 142
+Latest publication date: 2026-05-24
+Published report count on latest date: 8
+Archive dates available: 32
+Total published report pages: 150
 
 ## Latest Navigation
 
-- [Daily index 2026-05-22](/red-public/2026-05-22/)
+- [Daily index 2026-05-24](/red-public/2026-05-24/)
 - [Japanese reports](/red-public/ja/)
 - [English reports](/red-public/en/)
 - [Archive by date](/red-public/archive/)
@@ -22,15 +22,18 @@ Total published report pages: 142
 
 ## Latest Published Reports
 
-- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-22/ulcerative-colitis/)
-- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-22/parkinsons-disease/)
-- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-22/crohns-disease/)
-- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-22/myasthenia-gravis/)
-- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-22/systemic-sclerosis/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-22/multiple-sclerosis/)
+- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-24/ulcerative-colitis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-24/parkinsons-disease/)
+- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-05-24/systemic-lupus-erythematosus/)
+- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-24/crohns-disease/)
+- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-24/myasthenia-gravis/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-24/systemic-sclerosis/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-24/multiple-sclerosis/)
+- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-05-24/von-willebrand-disease/)
 
 ## Archive by Date
 
+- [2026-05-24](/red-public/2026-05-24/) - 8 published report(s)
 - [2026-05-22](/red-public/2026-05-22/) - 6 published report(s)
 - [2026-05-21](/red-public/2026-05-21/) - 10 published report(s)
 - [2026-05-20](/red-public/2026-05-20/) - 8 published report(s)
