@@ -1,11 +1,21 @@
-# RED Japanese Reports [2026-05-24]
+# RED Japanese Reports [2026-05-25]
 
 Japanese reports that passed the RED publication gate.
 
-No material Japanese reports were generated for this date.
+- Latest date: 2026-05-25
+- Published report count: 5
+
+## Report List
+
+- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-25/ulcerative-colitis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-25/parkinsons-disease/)
+- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-05-25/systemic-lupus-erythematosus/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-25/systemic-sclerosis/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-25/multiple-sclerosis/)
 
 ## Archive by Date
 
+- [2026-05-25](/red-public/ja/archive/) - 5 published report(s)
 - [2026-05-24](/red-public/ja/archive/) - 8 published report(s)
 - [2026-05-22](/red-public/ja/archive/) - 6 published report(s)
 - [2026-05-21](/red-public/ja/archive/) - 10 published report(s)
