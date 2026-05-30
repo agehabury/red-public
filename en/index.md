@@ -1,25 +1,27 @@
-# RED English Reports [2026-05-29]
+# RED English Reports [2026-05-31]
 
 English reports that passed the RED publication gate.
 
-- Latest date: 2026-05-29
+- Latest date: 2026-05-31
 - Published report count: 10
 
 ## Report List
 
-- [Ulcerative Colitis](/red-public/en/2026-05-29/ulcerative-colitis/)
-- [Parkinson's Disease](/red-public/en/2026-05-29/parkinsons-disease/)
-- [Systemic Lupus Erythematosus](/red-public/en/2026-05-29/systemic-lupus-erythematosus/)
-- [Crohn's Disease](/red-public/en/2026-05-29/crohns-disease/)
-- [Myasthenia Gravis](/red-public/en/2026-05-29/myasthenia-gravis/)
-- [Systemic Sclerosis](/red-public/en/2026-05-29/systemic-sclerosis/)
-- [Spinocerebellar Degeneration](/red-public/en/2026-05-29/spinocerebellar-degeneration/)
-- [Multiple Sclerosis](/red-public/en/2026-05-29/multiple-sclerosis/)
-- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-05-29/amyotrophic-lateral-sclerosis/)
-- [Von Willebrand Disease](/red-public/en/2026-05-29/von-willebrand-disease/)
+- [Ulcerative Colitis](/red-public/en/2026-05-31/ulcerative-colitis/)
+- [Parkinson's Disease](/red-public/en/2026-05-31/parkinsons-disease/)
+- [Systemic Lupus Erythematosus](/red-public/en/2026-05-31/systemic-lupus-erythematosus/)
+- [Crohn's Disease](/red-public/en/2026-05-31/crohns-disease/)
+- [Myasthenia Gravis](/red-public/en/2026-05-31/myasthenia-gravis/)
+- [Systemic Sclerosis](/red-public/en/2026-05-31/systemic-sclerosis/)
+- [Spinocerebellar Degeneration](/red-public/en/2026-05-31/spinocerebellar-degeneration/)
+- [Multiple Sclerosis](/red-public/en/2026-05-31/multiple-sclerosis/)
+- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-05-31/amyotrophic-lateral-sclerosis/)
+- [Von Willebrand Disease](/red-public/en/2026-05-31/von-willebrand-disease/)
 
 ## Archive by Date
 
+- [2026-05-31](/red-public/en/archive/) - 10 published report(s)
+- [2026-05-30](/red-public/en/archive/) - 0 published report(s)
 - [2026-05-29](/red-public/en/archive/) - 10 published report(s)
 - [2026-05-27](/red-public/en/archive/) - 0 published report(s)
 - [2026-05-26](/red-public/en/archive/) - 7 published report(s)
