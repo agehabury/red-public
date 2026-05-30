@@ -2,6 +2,43 @@
 
 Published Japanese reports grouped by date.
 
+## 2026-05-31
+- [amyotrophic lateral sclerosis](/red-public/ja/2026-05-31/amyotrophic-lateral-sclerosis/)
+- [crohns disease](/red-public/ja/2026-05-31/crohns-disease/)
+- [multiple sclerosis](/red-public/ja/2026-05-31/multiple-sclerosis/)
+- [myasthenia gravis](/red-public/ja/2026-05-31/myasthenia-gravis/)
+- [parkinsons disease](/red-public/ja/2026-05-31/parkinsons-disease/)
+- [spinocerebellar degeneration](/red-public/ja/2026-05-31/spinocerebellar-degeneration/)
+- [systemic lupus erythematosus](/red-public/ja/2026-05-31/systemic-lupus-erythematosus/)
+- [systemic sclerosis](/red-public/ja/2026-05-31/systemic-sclerosis/)
+- [ulcerative colitis](/red-public/ja/2026-05-31/ulcerative-colitis/)
+- [von willebrand disease](/red-public/ja/2026-05-31/von-willebrand-disease/)
+
+## 2026-05-30
+
+## 2026-05-29
+- [amyotrophic lateral sclerosis](/red-public/ja/2026-05-29/amyotrophic-lateral-sclerosis/)
+- [crohns disease](/red-public/ja/2026-05-29/crohns-disease/)
+- [multiple sclerosis](/red-public/ja/2026-05-29/multiple-sclerosis/)
+- [myasthenia gravis](/red-public/ja/2026-05-29/myasthenia-gravis/)
+- [parkinsons disease](/red-public/ja/2026-05-29/parkinsons-disease/)
+- [spinocerebellar degeneration](/red-public/ja/2026-05-29/spinocerebellar-degeneration/)
+- [systemic lupus erythematosus](/red-public/ja/2026-05-29/systemic-lupus-erythematosus/)
+- [systemic sclerosis](/red-public/ja/2026-05-29/systemic-sclerosis/)
+- [ulcerative colitis](/red-public/ja/2026-05-29/ulcerative-colitis/)
+- [von willebrand disease](/red-public/ja/2026-05-29/von-willebrand-disease/)
+
+## 2026-05-27
+
+## 2026-05-26
+- [crohns disease](/red-public/ja/2026-05-26/crohns-disease/)
+- [multiple sclerosis](/red-public/ja/2026-05-26/multiple-sclerosis/)
+- [myasthenia gravis](/red-public/ja/2026-05-26/myasthenia-gravis/)
+- [parkinsons disease](/red-public/ja/2026-05-26/parkinsons-disease/)
+- [systemic lupus erythematosus](/red-public/ja/2026-05-26/systemic-lupus-erythematosus/)
+- [systemic sclerosis](/red-public/ja/2026-05-26/systemic-sclerosis/)
+- [ulcerative colitis](/red-public/ja/2026-05-26/ulcerative-colitis/)
+
 ## 2026-05-25
 - [multiple sclerosis](/red-public/ja/2026-05-25/multiple-sclerosis/)
 - [parkinsons disease](/red-public/ja/2026-05-25/parkinsons-disease/)
