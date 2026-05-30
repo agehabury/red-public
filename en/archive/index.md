@@ -2,6 +2,20 @@
 
 Published English reports grouped by date.
 
+## 2026-05-31
+- [amyotrophic lateral sclerosis](/red-public/en/2026-05-31/amyotrophic-lateral-sclerosis/)
+- [crohns disease](/red-public/en/2026-05-31/crohns-disease/)
+- [multiple sclerosis](/red-public/en/2026-05-31/multiple-sclerosis/)
+- [myasthenia gravis](/red-public/en/2026-05-31/myasthenia-gravis/)
+- [parkinsons disease](/red-public/en/2026-05-31/parkinsons-disease/)
+- [spinocerebellar degeneration](/red-public/en/2026-05-31/spinocerebellar-degeneration/)
+- [systemic lupus erythematosus](/red-public/en/2026-05-31/systemic-lupus-erythematosus/)
+- [systemic sclerosis](/red-public/en/2026-05-31/systemic-sclerosis/)
+- [ulcerative colitis](/red-public/en/2026-05-31/ulcerative-colitis/)
+- [von willebrand disease](/red-public/en/2026-05-31/von-willebrand-disease/)
+
+## 2026-05-30
+
 ## 2026-05-29
 - [amyotrophic lateral sclerosis](/red-public/en/2026-05-29/amyotrophic-lateral-sclerosis/)
 - [crohns disease](/red-public/en/2026-05-29/crohns-disease/)
