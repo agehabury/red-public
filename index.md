@@ -2,14 +2,14 @@
 
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
-Latest publication date: 2026-05-31
+Latest publication date: 2026-06-02
 Published report count on latest date: 10
-Archive dates available: 38
-Total published report pages: 182
+Archive dates available: 40
+Total published report pages: 193
 
 ## Latest Navigation
 
-- [Daily index 2026-05-31](/red-public/2026-05-31/)
+- [Daily index 2026-06-02](/red-public/2026-06-02/)
 - [Japanese reports](/red-public/ja/)
 - [English reports](/red-public/en/)
 - [Archive by date](/red-public/archive/)
@@ -22,19 +22,21 @@ Total published report pages: 182
 
 ## Latest Published Reports
 
-- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-05-31/ulcerative-colitis/)
-- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-05-31/parkinsons-disease/)
-- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-05-31/systemic-lupus-erythematosus/)
-- [クローン病 (Crohn's Disease)](/red-public/ja/2026-05-31/crohns-disease/)
-- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-05-31/myasthenia-gravis/)
-- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-05-31/systemic-sclerosis/)
-- [脊髄小脳変性症 (Spinocerebellar Degeneration)](/red-public/ja/2026-05-31/spinocerebellar-degeneration/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-05-31/multiple-sclerosis/)
-- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-05-31/amyotrophic-lateral-sclerosis/)
-- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-05-31/von-willebrand-disease/)
+- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-06-02/ulcerative-colitis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-06-02/parkinsons-disease/)
+- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-06-02/systemic-lupus-erythematosus/)
+- [クローン病 (Crohn's Disease)](/red-public/ja/2026-06-02/crohns-disease/)
+- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-06-02/myasthenia-gravis/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-06-02/systemic-sclerosis/)
+- [脊髄小脳変性症 (Spinocerebellar Degeneration)](/red-public/ja/2026-06-02/spinocerebellar-degeneration/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-06-02/multiple-sclerosis/)
+- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-06-02/amyotrophic-lateral-sclerosis/)
+- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-06-02/von-willebrand-disease/)
 
 ## Archive by Date
 
+- [2026-06-02](/red-public/2026-06-02/) - 10 published report(s)
+- [2026-06-01](/red-public/2026-06-01/) - 1 published report(s)
 - [2026-05-31](/red-public/2026-05-31/) - 10 published report(s)
 - [2026-05-30](/red-public/2026-05-30/) - 0 published report(s)
 - [2026-05-29](/red-public/2026-05-29/) - 10 published report(s)
