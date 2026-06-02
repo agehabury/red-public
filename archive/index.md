@@ -2,6 +2,10 @@
 
 Browse published RED outputs by date.
 
+## 2026-06-03
+- Daily index: [2026-06-03](/red-public/2026-06-03/)
+- Published report count: 7
+
 ## 2026-06-02
 - Daily index: [2026-06-02](/red-public/2026-06-02/)
 - Published report count: 10
