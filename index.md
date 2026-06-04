@@ -2,14 +2,14 @@
 
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
-Latest publication date: 2026-06-04
+Latest publication date: 2026-06-05
 Published report count on latest date: 7
-Archive dates available: 42
-Total published report pages: 207
+Archive dates available: 43
+Total published report pages: 214
 
 ## Latest Navigation
 
-- [Daily index 2026-06-04](/red-public/2026-06-04/)
+- [Daily index 2026-06-05](/red-public/2026-06-05/)
 - [Japanese reports](/red-public/ja/)
 - [English reports](/red-public/en/)
 - [Archive by date](/red-public/archive/)
@@ -22,16 +22,17 @@ Total published report pages: 207
 
 ## Latest Published Reports
 
-- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-06-04/ulcerative-colitis/)
-- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-06-04/parkinsons-disease/)
-- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-06-04/systemic-lupus-erythematosus/)
-- [クローン病 (Crohn's Disease)](/red-public/ja/2026-06-04/crohns-disease/)
-- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-06-04/systemic-sclerosis/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-06-04/multiple-sclerosis/)
-- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-06-04/von-willebrand-disease/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-06-05/parkinsons-disease/)
+- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-06-05/systemic-lupus-erythematosus/)
+- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-06-05/myasthenia-gravis/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-06-05/systemic-sclerosis/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-06-05/multiple-sclerosis/)
+- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-06-05/amyotrophic-lateral-sclerosis/)
+- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-06-05/von-willebrand-disease/)
 
 ## Archive by Date
 
+- [2026-06-05](/red-public/2026-06-05/) - 7 published report(s)
 - [2026-06-04](/red-public/2026-06-04/) - 7 published report(s)
 - [2026-06-03](/red-public/2026-06-03/) - 7 published report(s)
 - [2026-06-02](/red-public/2026-06-02/) - 10 published report(s)
