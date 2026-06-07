@@ -2,23 +2,6 @@
 
 This page lists the reports that passed RED's public publication gate for the date above.
 
-- Published report count: 7
-- Japanese archive: [Open](/red-public/ja/)
-- English archive: [Open](/red-public/en/)
+No material RED reports were generated for this date.
 
-## Published Reports
-
-- [パーキンソン病 / Parkinson's Disease](/red-public/ja/2026-06-05/parkinsons-disease/)
-- [Parkinson's Disease](/red-public/en/2026-06-05/parkinsons-disease/)
-- [全身性エリテマトーデス / Systemic Lupus Erythematosus](/red-public/ja/2026-06-05/systemic-lupus-erythematosus/)
-- [Systemic Lupus Erythematosus](/red-public/en/2026-06-05/systemic-lupus-erythematosus/)
-- [重症筋無力症 / Myasthenia Gravis](/red-public/ja/2026-06-05/myasthenia-gravis/)
-- [Myasthenia Gravis](/red-public/en/2026-06-05/myasthenia-gravis/)
-- [全身性強皮症 / Systemic Sclerosis](/red-public/ja/2026-06-05/systemic-sclerosis/)
-- [Systemic Sclerosis](/red-public/en/2026-06-05/systemic-sclerosis/)
-- [多発性硬化症 / Multiple Sclerosis](/red-public/ja/2026-06-05/multiple-sclerosis/)
-- [Multiple Sclerosis](/red-public/en/2026-06-05/multiple-sclerosis/)
-- [ALS（筋萎縮性側索硬化症） / Amyotrophic Lateral Sclerosis](/red-public/ja/2026-06-05/amyotrophic-lateral-sclerosis/)
-- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-06-05/amyotrophic-lateral-sclerosis/)
-- [フォン・ヴィレブランド病 / Von Willebrand Disease](/red-public/ja/2026-06-05/von-willebrand-disease/)
-- [Von Willebrand Disease](/red-public/en/2026-06-05/von-willebrand-disease/)
+Return to the [site index](/red-public/) or browse the [Japanese archive](/red-public/ja/) and [English archive](/red-public/en/).
