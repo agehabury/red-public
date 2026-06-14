@@ -1,11 +1,28 @@
-# RED English Reports [2026-06-08]
+# RED English Reports [2026-06-14]
 
 English reports that passed the RED publication gate.
 
-No material English reports were generated for this date.
+- Latest date: 2026-06-14
+- Published report count: 8
+
+## Report List
+
+- [Ulcerative Colitis](/red-public/en/2026-06-14/ulcerative-colitis/)
+- [Parkinson's Disease](/red-public/en/2026-06-14/parkinsons-disease/)
+- [Systemic Lupus Erythematosus](/red-public/en/2026-06-14/systemic-lupus-erythematosus/)
+- [Crohn's Disease](/red-public/en/2026-06-14/crohns-disease/)
+- [Systemic Sclerosis](/red-public/en/2026-06-14/systemic-sclerosis/)
+- [Multiple Sclerosis](/red-public/en/2026-06-14/multiple-sclerosis/)
+- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-06-14/amyotrophic-lateral-sclerosis/)
+- [Von Willebrand Disease](/red-public/en/2026-06-14/von-willebrand-disease/)
 
 ## Archive by Date
 
+- [2026-06-14](/red-public/en/archive/) - 8 published report(s)
+- [2026-06-13](/red-public/en/archive/) - 0 published report(s)
+- [2026-06-12](/red-public/en/archive/) - 0 published report(s)
+- [2026-06-11](/red-public/en/archive/) - 0 published report(s)
+- [2026-06-10](/red-public/en/archive/) - 6 published report(s)
 - [2026-06-08](/red-public/en/archive/) - 7 published report(s)
 - [2026-06-07](/red-public/en/archive/) - 0 published report(s)
 - [2026-06-06](/red-public/en/archive/) - 0 published report(s)
