@@ -2,14 +2,14 @@
 
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
-Latest publication date: 2026-06-08
-Published report count on latest date: 7
-Archive dates available: 46
-Total published report pages: 221
+Latest publication date: 2026-06-14
+Published report count on latest date: 8
+Archive dates available: 51
+Total published report pages: 235
 
 ## Latest Navigation
 
-- [Daily index 2026-06-08](/red-public/2026-06-08/)
+- [Daily index 2026-06-14](/red-public/2026-06-14/)
 - [Japanese reports](/red-public/ja/)
 - [English reports](/red-public/en/)
 - [Archive by date](/red-public/archive/)
@@ -22,16 +22,22 @@ Total published report pages: 221
 
 ## Latest Published Reports
 
-- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-06-08/ulcerative-colitis/)
-- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-06-08/systemic-lupus-erythematosus/)
-- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-06-08/myasthenia-gravis/)
-- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-06-08/systemic-sclerosis/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-06-08/multiple-sclerosis/)
-- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-06-08/amyotrophic-lateral-sclerosis/)
-- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-06-08/von-willebrand-disease/)
+- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-06-14/ulcerative-colitis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-06-14/parkinsons-disease/)
+- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-06-14/systemic-lupus-erythematosus/)
+- [クローン病 (Crohn's Disease)](/red-public/ja/2026-06-14/crohns-disease/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-06-14/systemic-sclerosis/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-06-14/multiple-sclerosis/)
+- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-06-14/amyotrophic-lateral-sclerosis/)
+- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-06-14/von-willebrand-disease/)
 
 ## Archive by Date
 
+- [2026-06-14](/red-public/2026-06-14/) - 8 published report(s)
+- [2026-06-13](/red-public/2026-06-13/) - 0 published report(s)
+- [2026-06-12](/red-public/2026-06-12/) - 0 published report(s)
+- [2026-06-11](/red-public/2026-06-11/) - 0 published report(s)
+- [2026-06-10](/red-public/2026-06-10/) - 6 published report(s)
 - [2026-06-08](/red-public/2026-06-08/) - 7 published report(s)
 - [2026-06-07](/red-public/2026-06-07/) - 0 published report(s)
 - [2026-06-06](/red-public/2026-06-06/) - 0 published report(s)
