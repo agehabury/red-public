@@ -3,9 +3,9 @@
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
 Latest publication date: 2026-06-16
-Published report count on latest date: 9
+Published report count on latest date: 10
 Archive dates available: 53
-Total published report pages: 244
+Total published report pages: 245
 
 ## Latest Navigation
 
@@ -31,10 +31,11 @@ Total published report pages: 244
 - [脊髄小脳変性症 (Spinocerebellar Degeneration)](/red-public/ja/2026-06-16/spinocerebellar-degeneration/)
 - [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-06-16/multiple-sclerosis/)
 - [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-06-16/amyotrophic-lateral-sclerosis/)
+- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-06-16/von-willebrand-disease/)
 
 ## Archive by Date
 
-- [2026-06-16](/red-public/2026-06-16/) - 9 published report(s)
+- [2026-06-16](/red-public/2026-06-16/) - 10 published report(s)
 - [2026-06-15](/red-public/2026-06-15/) - 0 published report(s)
 - [2026-06-14](/red-public/2026-06-14/) - 8 published report(s)
 - [2026-06-13](/red-public/2026-06-13/) - 0 published report(s)
