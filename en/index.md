@@ -1,23 +1,26 @@
-# RED English Reports [2026-06-14]
+# RED English Reports [2026-06-16]
 
 English reports that passed the RED publication gate.
 
-- Latest date: 2026-06-14
-- Published report count: 8
+- Latest date: 2026-06-16
+- Published report count: 9
 
 ## Report List
 
-- [Ulcerative Colitis](/red-public/en/2026-06-14/ulcerative-colitis/)
-- [Parkinson's Disease](/red-public/en/2026-06-14/parkinsons-disease/)
-- [Systemic Lupus Erythematosus](/red-public/en/2026-06-14/systemic-lupus-erythematosus/)
-- [Crohn's Disease](/red-public/en/2026-06-14/crohns-disease/)
-- [Systemic Sclerosis](/red-public/en/2026-06-14/systemic-sclerosis/)
-- [Multiple Sclerosis](/red-public/en/2026-06-14/multiple-sclerosis/)
-- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-06-14/amyotrophic-lateral-sclerosis/)
-- [Von Willebrand Disease](/red-public/en/2026-06-14/von-willebrand-disease/)
+- [Ulcerative Colitis](/red-public/en/2026-06-16/ulcerative-colitis/)
+- [Parkinson's Disease](/red-public/en/2026-06-16/parkinsons-disease/)
+- [Systemic Lupus Erythematosus](/red-public/en/2026-06-16/systemic-lupus-erythematosus/)
+- [Crohn's Disease](/red-public/en/2026-06-16/crohns-disease/)
+- [Myasthenia Gravis](/red-public/en/2026-06-16/myasthenia-gravis/)
+- [Systemic Sclerosis](/red-public/en/2026-06-16/systemic-sclerosis/)
+- [Spinocerebellar Degeneration](/red-public/en/2026-06-16/spinocerebellar-degeneration/)
+- [Multiple Sclerosis](/red-public/en/2026-06-16/multiple-sclerosis/)
+- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-06-16/amyotrophic-lateral-sclerosis/)
 
 ## Archive by Date
 
+- [2026-06-16](/red-public/en/archive/) - 9 published report(s)
+- [2026-06-15](/red-public/en/archive/) - 0 published report(s)
 - [2026-06-14](/red-public/en/archive/) - 8 published report(s)
 - [2026-06-13](/red-public/en/archive/) - 0 published report(s)
 - [2026-06-12](/red-public/en/archive/) - 0 published report(s)
