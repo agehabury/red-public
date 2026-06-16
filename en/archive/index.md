@@ -12,6 +12,7 @@ Published English reports grouped by date.
 - [systemic lupus erythematosus](/red-public/en/2026-06-16/systemic-lupus-erythematosus/)
 - [systemic sclerosis](/red-public/en/2026-06-16/systemic-sclerosis/)
 - [ulcerative colitis](/red-public/en/2026-06-16/ulcerative-colitis/)
+- [von willebrand disease](/red-public/en/2026-06-16/von-willebrand-disease/)
 
 ## 2026-06-15
 
