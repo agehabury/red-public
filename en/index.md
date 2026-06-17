@@ -1,20 +1,25 @@
-# RED English Reports [2026-06-17]
+# RED English Reports [2026-06-18]
 
 English reports that passed the RED publication gate.
 
-- Latest date: 2026-06-17
-- Published report count: 5
+- Latest date: 2026-06-18
+- Published report count: 9
 
 ## Report List
 
-- [Ulcerative Colitis](/red-public/en/2026-06-17/ulcerative-colitis/)
-- [Systemic Lupus Erythematosus](/red-public/en/2026-06-17/systemic-lupus-erythematosus/)
-- [Crohn's Disease](/red-public/en/2026-06-17/crohns-disease/)
-- [Systemic Sclerosis](/red-public/en/2026-06-17/systemic-sclerosis/)
-- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-06-17/amyotrophic-lateral-sclerosis/)
+- [Ulcerative Colitis](/red-public/en/2026-06-18/ulcerative-colitis/)
+- [Parkinson's Disease](/red-public/en/2026-06-18/parkinsons-disease/)
+- [Systemic Lupus Erythematosus](/red-public/en/2026-06-18/systemic-lupus-erythematosus/)
+- [Crohn's Disease](/red-public/en/2026-06-18/crohns-disease/)
+- [Myasthenia Gravis](/red-public/en/2026-06-18/myasthenia-gravis/)
+- [Systemic Sclerosis](/red-public/en/2026-06-18/systemic-sclerosis/)
+- [Multiple Sclerosis](/red-public/en/2026-06-18/multiple-sclerosis/)
+- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-06-18/amyotrophic-lateral-sclerosis/)
+- [Von Willebrand Disease](/red-public/en/2026-06-18/von-willebrand-disease/)
 
 ## Archive by Date
 
+- [2026-06-18](/red-public/en/archive/) - 9 published report(s)
 - [2026-06-17](/red-public/en/archive/) - 5 published report(s)
 - [2026-06-16](/red-public/en/archive/) - 10 published report(s)
 - [2026-06-15](/red-public/en/archive/) - 0 published report(s)
