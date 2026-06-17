@@ -3,9 +3,9 @@
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
 Latest publication date: 2026-06-17
-Published report count on latest date: 4
+Published report count on latest date: 5
 Archive dates available: 54
-Total published report pages: 249
+Total published report pages: 250
 
 ## Latest Navigation
 
@@ -26,10 +26,11 @@ Total published report pages: 249
 - [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-06-17/systemic-lupus-erythematosus/)
 - [クローン病 (Crohn's Disease)](/red-public/ja/2026-06-17/crohns-disease/)
 - [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-06-17/systemic-sclerosis/)
+- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-06-17/amyotrophic-lateral-sclerosis/)
 
 ## Archive by Date
 
-- [2026-06-17](/red-public/2026-06-17/) - 4 published report(s)
+- [2026-06-17](/red-public/2026-06-17/) - 5 published report(s)
 - [2026-06-16](/red-public/2026-06-16/) - 10 published report(s)
 - [2026-06-15](/red-public/2026-06-15/) - 0 published report(s)
 - [2026-06-14](/red-public/2026-06-14/) - 8 published report(s)
