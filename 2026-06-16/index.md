@@ -2,7 +2,7 @@
 
 This page lists the reports that passed RED's public publication gate for the date above.
 
-- Published report count: 9
+- Published report count: 10
 - Japanese archive: [Open](/red-public/ja/)
 - English archive: [Open](/red-public/en/)
 
@@ -26,3 +26,5 @@ This page lists the reports that passed RED's public publication gate for the da
 - [Multiple Sclerosis](/red-public/en/2026-06-16/multiple-sclerosis/)
 - [ALS（筋萎縮性側索硬化症） / Amyotrophic Lateral Sclerosis](/red-public/ja/2026-06-16/amyotrophic-lateral-sclerosis/)
 - [Amyotrophic Lateral Sclerosis](/red-public/en/2026-06-16/amyotrophic-lateral-sclerosis/)
+- [フォン・ヴィレブランド病 / Von Willebrand Disease](/red-public/ja/2026-06-16/von-willebrand-disease/)
+- [Von Willebrand Disease](/red-public/en/2026-06-16/von-willebrand-disease/)
