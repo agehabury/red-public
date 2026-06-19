@@ -2,14 +2,14 @@
 
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
-Latest publication date: 2026-06-18
-Published report count on latest date: 9
-Archive dates available: 55
-Total published report pages: 259
+Latest publication date: 2026-06-19
+Published report count on latest date: 8
+Archive dates available: 56
+Total published report pages: 267
 
 ## Latest Navigation
 
-- [Daily index 2026-06-18](/red-public/2026-06-18/)
+- [Daily index 2026-06-19](/red-public/2026-06-19/)
 - [Japanese reports](/red-public/ja/)
 - [English reports](/red-public/en/)
 - [Archive by date](/red-public/archive/)
@@ -22,18 +22,18 @@ Total published report pages: 259
 
 ## Latest Published Reports
 
-- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-06-18/ulcerative-colitis/)
-- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-06-18/parkinsons-disease/)
-- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-06-18/systemic-lupus-erythematosus/)
-- [クローン病 (Crohn's Disease)](/red-public/ja/2026-06-18/crohns-disease/)
-- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-06-18/myasthenia-gravis/)
-- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-06-18/systemic-sclerosis/)
-- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-06-18/multiple-sclerosis/)
-- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-06-18/amyotrophic-lateral-sclerosis/)
-- [フォン・ヴィレブランド病 (Von Willebrand Disease)](/red-public/ja/2026-06-18/von-willebrand-disease/)
+- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-06-19/ulcerative-colitis/)
+- [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-06-19/parkinsons-disease/)
+- [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-06-19/systemic-lupus-erythematosus/)
+- [クローン病 (Crohn's Disease)](/red-public/ja/2026-06-19/crohns-disease/)
+- [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-06-19/myasthenia-gravis/)
+- [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-06-19/systemic-sclerosis/)
+- [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-06-19/multiple-sclerosis/)
+- [ALS（筋萎縮性側索硬化症） (Amyotrophic Lateral Sclerosis)](/red-public/ja/2026-06-19/amyotrophic-lateral-sclerosis/)
 
 ## Archive by Date
 
+- [2026-06-19](/red-public/2026-06-19/) - 8 published report(s)
 - [2026-06-18](/red-public/2026-06-18/) - 9 published report(s)
 - [2026-06-17](/red-public/2026-06-17/) - 5 published report(s)
 - [2026-06-16](/red-public/2026-06-16/) - 10 published report(s)
