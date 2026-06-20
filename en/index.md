@@ -1,23 +1,23 @@
-# RED English Reports [2026-06-19]
+# RED English Reports [2026-06-20]
 
 English reports that passed the RED publication gate.
 
-- Latest date: 2026-06-19
-- Published report count: 8
+- Latest date: 2026-06-20
+- Published report count: 7
 
 ## Report List
 
-- [Ulcerative Colitis](/red-public/en/2026-06-19/ulcerative-colitis/)
-- [Parkinson's Disease](/red-public/en/2026-06-19/parkinsons-disease/)
-- [Systemic Lupus Erythematosus](/red-public/en/2026-06-19/systemic-lupus-erythematosus/)
-- [Crohn's Disease](/red-public/en/2026-06-19/crohns-disease/)
-- [Myasthenia Gravis](/red-public/en/2026-06-19/myasthenia-gravis/)
-- [Systemic Sclerosis](/red-public/en/2026-06-19/systemic-sclerosis/)
-- [Multiple Sclerosis](/red-public/en/2026-06-19/multiple-sclerosis/)
-- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-06-19/amyotrophic-lateral-sclerosis/)
+- [Ulcerative Colitis](/red-public/en/2026-06-20/ulcerative-colitis/)
+- [Parkinson's Disease](/red-public/en/2026-06-20/parkinsons-disease/)
+- [Systemic Lupus Erythematosus](/red-public/en/2026-06-20/systemic-lupus-erythematosus/)
+- [Myasthenia Gravis](/red-public/en/2026-06-20/myasthenia-gravis/)
+- [Systemic Sclerosis](/red-public/en/2026-06-20/systemic-sclerosis/)
+- [Multiple Sclerosis](/red-public/en/2026-06-20/multiple-sclerosis/)
+- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-06-20/amyotrophic-lateral-sclerosis/)
 
 ## Archive by Date
 
+- [2026-06-20](/red-public/en/archive/) - 8 published report(s)
 - [2026-06-19](/red-public/en/archive/) - 8 published report(s)
 - [2026-06-18](/red-public/en/archive/) - 9 published report(s)
 - [2026-06-17](/red-public/en/archive/) - 5 published report(s)
