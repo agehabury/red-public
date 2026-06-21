@@ -3,7 +3,7 @@
 Daily rare disease intelligence archive for specialist-facing monitoring.
 
 Latest publication date: 2026-06-21
-Published report count on latest date: 6
+Published report count on latest date: 8
 Archive dates available: 58
 Total published report pages: 283
 
@@ -22,8 +22,10 @@ Total published report pages: 283
 
 ## Latest Published Reports
 
+- [潰瘍性大腸炎 (Ulcerative Colitis)](/red-public/ja/2026-06-21/ulcerative-colitis/)
 - [パーキンソン病 (Parkinson's Disease)](/red-public/ja/2026-06-21/parkinsons-disease/)
 - [全身性エリテマトーデス (Systemic Lupus Erythematosus)](/red-public/ja/2026-06-21/systemic-lupus-erythematosus/)
+- [クローン病 (Crohn's Disease)](/red-public/ja/2026-06-21/crohns-disease/)
 - [重症筋無力症 (Myasthenia Gravis)](/red-public/ja/2026-06-21/myasthenia-gravis/)
 - [全身性強皮症 (Systemic Sclerosis)](/red-public/ja/2026-06-21/systemic-sclerosis/)
 - [多発性硬化症 (Multiple Sclerosis)](/red-public/ja/2026-06-21/multiple-sclerosis/)
