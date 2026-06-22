@@ -2,6 +2,9 @@
 
 Published English reports grouped by date.
 
+## 2026-06-22
+- [myasthenia gravis](/red-public/en/2026-06-22/myasthenia-gravis/)
+
 ## 2026-06-21
 - [amyotrophic lateral sclerosis](/red-public/en/2026-06-21/amyotrophic-lateral-sclerosis/)
 - [crohns disease](/red-public/en/2026-06-21/crohns-disease/)

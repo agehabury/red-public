@@ -2,6 +2,9 @@
 
 Published Japanese reports grouped by date.
 
+## 2026-06-22
+- [myasthenia gravis](/red-public/ja/2026-06-22/myasthenia-gravis/)
+
 ## 2026-06-21
 - [amyotrophic lateral sclerosis](/red-public/ja/2026-06-21/amyotrophic-lateral-sclerosis/)
 - [crohns disease](/red-public/ja/2026-06-21/crohns-disease/)

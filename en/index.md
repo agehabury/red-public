@@ -1,23 +1,17 @@
-# RED English Reports [2026-06-21]
+# RED English Reports [2026-06-22]
 
 English reports that passed the RED publication gate.
 
-- Latest date: 2026-06-21
-- Published report count: 8
+- Latest date: 2026-06-22
+- Published report count: 1
 
 ## Report List
 
-- [Ulcerative Colitis](/red-public/en/2026-06-21/ulcerative-colitis/)
-- [Parkinson's Disease](/red-public/en/2026-06-21/parkinsons-disease/)
-- [Systemic Lupus Erythematosus](/red-public/en/2026-06-21/systemic-lupus-erythematosus/)
-- [Crohn's Disease](/red-public/en/2026-06-21/crohns-disease/)
-- [Myasthenia Gravis](/red-public/en/2026-06-21/myasthenia-gravis/)
-- [Systemic Sclerosis](/red-public/en/2026-06-21/systemic-sclerosis/)
-- [Multiple Sclerosis](/red-public/en/2026-06-21/multiple-sclerosis/)
-- [Amyotrophic Lateral Sclerosis](/red-public/en/2026-06-21/amyotrophic-lateral-sclerosis/)
+- [Myasthenia Gravis](/red-public/en/2026-06-22/myasthenia-gravis/)
 
 ## Archive by Date
 
+- [2026-06-22](/red-public/en/archive/) - 1 published report(s)
 - [2026-06-21](/red-public/en/archive/) - 8 published report(s)
 - [2026-06-20](/red-public/en/archive/) - 8 published report(s)
 - [2026-06-19](/red-public/en/archive/) - 8 published report(s)
